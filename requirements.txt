@@ -6,4 +6,5 @@ django-fontawesome==0.2.1
 django-markdownx==1.0.1
 django-taggit==1.5.1
 django-widget-tweaks==1.4.8
+gunicorn
  
